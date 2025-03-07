@@ -43,4 +43,4 @@ A real-time sign language translator that can recognize hand gestures using your
 
 ## Live Demo
 
-Visit the live demo at: [Your GitHub Pages URL] 
+Visit the live demo at: https://paramjeet03.github.io/Hand_sign 
